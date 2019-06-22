@@ -1,2 +1,2 @@
-# A-Visualization
-![alt text](https://github.com/rinovethamoses97/A-Visualization/blob/master/output.png)
+# A-Star-Visualization
+![alt text](https://github.com/rinovethamoses97/A-Star-Visualization/blob/master/output.png)
